@@ -1,3 +1,5 @@
+> Part of [**app-pixels.com**](https://www.app-pixels.com) — browse + flash this app at [`/apps/1x1-flappy`](https://www.app-pixels.com/apps/1x1-flappy).
+
 # 1x1-flappy
 
 **1x1 Flappy** · v1.0.3
